@@ -8,6 +8,7 @@
   </div>
 
   <h3 align="center">GEMINI</h3>
+  <h2> Deployed Link https://gemoai.netlify.app/</h2>
 </div>
 
 
